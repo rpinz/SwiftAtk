@@ -1,0 +1,3 @@
+[submodule "Library/CAtk"]
+	path = Library/CAtk
+	url = https://github.com/rpinz/CAtk
